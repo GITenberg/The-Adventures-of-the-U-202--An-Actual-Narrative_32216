@@ -1,0 +1,31 @@
+_repo: The-Adventures-of-the-U-202--An-Actual-Narrative_32216
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spiegel, E. (Edgar), Freiherr von
+    aliases:
+    - Spiegel, Edgar, Freiherr von
+    - Spiegel von und zu Peckelsheim, Edgar, Freiherr
+    - Von Spiegel, E. (Edgar), Freiherr
+    birthdate: 1885
+    gutenberg_agent_id: '35731'
+    url: http://www.gutenberg.org/2009/agents/35731
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32216'
+  lccn: '17006334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, German'
+title: 'The Adventures of the U-202: An Actual Narrative'
+url: http://www.gutenberg.org/ebooks/32216
